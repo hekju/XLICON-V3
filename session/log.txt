@@ -1,0 +1,105 @@
+Tue Apr 30 19:36:52 2024
+Unknown platform.
+Ren'Py 8.0.3.22090809
+ 
+
+Bootstrap to the start of init.init took 0.00s
+Bootstrap to the start of init.init took 0.00s
+Manufacturer realme model RMX3710
+Screen diagonal is 5.14300023224663 inches.
+Early init took 0.11s
+Early init took 0.11s
+Android search paths: /storage/emulated/0/Android/data/com.cryoxxx.oppaiodyssey/files/../../../../Documents/RenPy_Saves/com.cryoxxx.oppaiodyssey/game /data/user/0/com.cryoxxx.oppaiodyssey/files/game
+Loader init took 0.08s
+Loader init took 0.08s
+Loading error handling took 1.14s
+Loading error handling took 1.14s
+Loading script took 8.45s
+Loading script took 8.45s
+Saving to /storage/emulated/0/Android/data/com.cryoxxx.oppaiodyssey/files/../../../../Documents/RenPy_Saves/com.cryoxxx.oppaiodyssey
+Loading save slot metadata. took 0.99s
+Loading save slot metadata. took 0.99s
+Loading persistent took 0.02s
+Loading persistent took 0.02s
+Faled to initialize steam: OSError('dlopen failed: library "/data/user/0/com.cryoxxx.oppaiodyssey/files/libsteam_api.so" not found')
+Set script version to: (7, 3, 5)
+ - Init at 00images.rpyc:52 took 0.28187 s.
+Running init code took 0.82s
+Running init code took 0.82s
+Loading analysis data took 1.15s
+Loading analysis data took 1.15s
+Analyze and compile ATL took 0.11s
+Analyze and compile ATL took 0.11s
+Index archives took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.00s
+Dump and make backups. took 0.00s
+Cleaning cache took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 1.61s
+Initial gc. took 1.61s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Cleaning stores took 0.00s
+Init translation took 1.63s
+Init translation took 1.63s
+Build styles took 0.01s
+Build styles took 0.01s
+Load screen analysis took 2.16s
+Load screen analysis took 2.16s
+Analyze screens took 0.05s
+Analyze screens took 0.05s
+Save screen analysis took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 5.05s
+Prepare screens took 5.05s
+Save pyanalysis. took 0.00s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.01s
+Running _start took 0.01s
+Interface start took 2.46s
+Interface start took 2.46s
+
+Initializing gles renderer:
+primary display bounds: (0, 0, 2290, 922)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'ARM'"
+Renderer: b'Mali-G52 MC2'
+Version: b'OpenGL ES 3.2 v1.r32p1-01eac0.2a893c04ca0026c2e6802dbe7d7af5c5'
+Display Info: None
+Number of texture units: 16
+Using shader environment.
+Using FBO RTT.
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Using gles renderer.
+Texture testing:
+- Hardware max texture size: 16383
+- 64px textures work.
+- 128px textures work.
+- 256px textures work.
+- 512px textures work.
+- 1024px textures work.
+- 2048px textures work.
+Screen sizes: virtual=(1920, 1080) physical=(2290, 1080) drawable=(2290, 1080)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Total time until interface ready: 26.461780071258545s
+Hid presplash.
+Entered background.
+Entering foreground.
+Screen sizes: virtual=(1920, 1080) physical=(2290, 1080) drawable=(2290, 1080)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Entered background.
+Entering foreground.
+Screen sizes: virtual=(1920, 1080) physical=(2290, 1080) drawable=(2290, 1080)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
